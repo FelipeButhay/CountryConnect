@@ -1,0 +1,21 @@
+.star-counter svg {
+    inset: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    width: 90%;
+    height: 90%;
+    display: block;
+
+    border-radius: 100%;
+    box-shadow: var(--shadow-l);
+}
+
+.star-counter-frame {
+    position: relative;
+    height: 42vh;
+    width: 42vh;
+    background-color: var(--bg-light);
+    
+    border-radius: 100%;
+    box-shadow: var(--shadow-l);
+}

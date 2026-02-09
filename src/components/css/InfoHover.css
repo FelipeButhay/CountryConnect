@@ -1,0 +1,39 @@
+.infohover-container {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    height: 100%;
+    width: 100%;
+}
+
+.info {
+    position: absolute;
+    left: 50%;
+    top: 120%;
+    transform: translateX(-50%);
+
+    background: var(--bg-light);
+    color: var(--text);
+    font: var(--p);
+
+    padding: .7vh 1vh;
+    border-radius: 1vh;
+
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: var(--transition-l);
+    z-index: 100;
+
+    box-shadow: var(--shadow-m);
+}
+
+.infohover-container:hover .info {
+    z-index: 100;
+    opacity: 1;
+}
+
+.info svg {
+    height: 100%;
+    width: 100%;
+}

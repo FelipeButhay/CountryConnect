@@ -1,0 +1,65 @@
+.group {
+    grid-column-start: 1;
+    grid-column-end: 5;
+
+    padding: 3vh 3vh;
+    border-radius: 1.5vh;
+    box-shadow: var(--shadow-l);
+    z-index: 2;
+
+    transition: var(--transition-l);
+    position: relative;
+}
+
+.group span.title {
+    font: var(--h2);
+    color: var(--text);
+    display: block;
+
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.group span.almost {
+    font: var(--p);
+    color: var(--text-muted);
+    padding: .5vh;
+    border-radius: .8vh;
+    transition: none;
+}
+
+.group span.almost.show {
+    background-color: var(--bg);
+    box-shadow: var(--shadow-m);
+}
+
+.group img {
+    height: 6vh;
+    margin: 0 1vh;
+    margin-top: 2vh;
+    object-fit: contain; /* asegura que no se deforme */
+    pointer-events: none; /* evita que el clic lo bloquee */
+    border-radius: 100%;
+    box-shadow: var(--shadow-m);
+}
+
+.group.default {
+    background: var(--gradient);
+}
+
+.group.correct {
+    background: var(--correct-gradient);
+}
+
+.group.valid {
+    background: var(--valid-gradient);
+}
+
+.group.invalid {
+    background: var(--invalid-gradient);
+}
+
+.group.missed {
+    background: var(--missed-gradient);
+}

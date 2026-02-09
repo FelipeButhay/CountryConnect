@@ -1,0 +1,46 @@
+.country-sq {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* aspect-ratio: 1; */
+    overflow: hidden;
+    background-color: var(--bg-light);
+    padding: 1.5vh;
+    border-radius: 1.5vh;
+    box-shadow: var(--shadow-s);
+    z-index: 2;
+
+    transition: var(--transition-l);
+}
+
+.country-sq:hover {
+    background-color: var(--text-muted);
+}
+
+.country-sq.selected {
+    background-image: var(--gradient);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.country-sq img {
+    height: 70%;
+    object-fit: contain; /* asegura que no se deforme */
+    pointer-events: none; /* evita que el clic lo bloquee */
+    border-radius: 100%;
+    box-shadow: var(--shadow-l);
+}
+
+.country-sq span {
+    margin-top: .8rem;
+    font: var(--h3);
+    color: var(--text);
+    text-align: center;
+
+    width: 100%;
+
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

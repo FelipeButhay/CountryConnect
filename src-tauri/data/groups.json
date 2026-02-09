@@ -1,0 +1,859 @@
+[
+    {
+        "name": "Top Biggest Countries",
+        "countries": [
+            "RU",
+            "CA",
+            "CN",
+            "US",
+            "BR",
+            "AU",
+            "IN",
+            "AR",
+            "KZ",
+            "DZ"
+        ],
+        "order": true,
+        "difficulty": 1
+    },
+    {
+        "name": "Top Smallest Countries",
+        "countries": [
+            "VA",
+            "MC",
+            "NR",
+            "TV",
+            "SM",
+            "LI",
+            "MH",
+            "KN",
+            "MV",
+            "MT"
+        ],
+        "order": true,
+        "difficulty": 1
+    },
+    {
+        "name": "Top Most Populated Countries",
+        "countries": [
+            "IN",
+            "CN",
+            "US",
+            "ID",
+            "PK",
+            "NG",
+            "BR",
+            "BD",
+            "RU",
+            "MX"
+        ],
+        "order": true,
+        "difficulty": 1
+    },
+    {
+        "name": "Top Least Populated Countries",
+        "countries": [
+            "VA",
+            "TV",
+            "NR",
+            "PW",
+            "SM",
+            "MC",
+            "LI",
+            "MH",
+            "GL",
+            "KN"
+        ],
+        "order": true,
+        "difficulty": 1
+    },
+    {
+        "name": "Top Countries with the Highest GDP per capita",
+        "countries": [
+            "MC",
+            "LI",
+            "LU",
+            "IE",
+            "CH",
+            "NO",
+            "US",
+            "IS",
+            "QA",
+            "DK"
+        ],
+        "order": false,
+        "difficulty": 1
+    },
+    {
+        "name": "Top Countries with the Lowest GDP per capita",
+        "countries": [
+            "BI",
+            "AF",
+            "YE",
+            "SS",
+            "CF",
+            "MW",
+            "SO",
+            "MG",
+            "MZ",
+            "KP"
+        ],
+        "order": false,
+        "difficulty": 1
+    },
+    {
+        "name": "Top Countries with the Heighest HDI",
+        "countries": [
+            "IS",
+            "CH",
+            "NO",
+            "MC",
+            "DK",
+            "SE",
+            "DE",
+            "AU",
+            "NL",
+            "HK"
+        ],
+        "order": false,
+        "difficulty": 1
+    },
+    {
+        "name": "Top Countries with the Lowest HDI",
+        "countries": [
+            "SS",
+            "SO",
+            "CF",
+            "TD",
+            "ML",
+            "NE",
+            "BI",
+            "BF",
+            "SL",
+            "YE"
+        ],
+        "order": false,
+        "difficulty": 1
+    },
+    {
+        "name": "Countries which Flag has Text",
+        "countries": [
+            "AF",
+            "BR",
+            "IR",
+            "IQ",
+            "SA"
+        ],
+        "order": false,
+        "difficulty": 2
+    },
+    {
+        "name": "Countries which Flag has a Coat of Arms",
+        "countries": [
+            "AD",
+            "BZ",
+            "BN",
+            "HR",
+            "DO",
+            "EC",
+            "EG",
+            "SV",
+            "GQ",
+            "FJ",
+            "GT",
+            "HT",
+            "MD",
+            "ME",
+            "NI",
+            "PY",
+            "PT",
+            "SM",
+            "RS",
+            "SK",
+            "SI",
+            "ES"
+        ],
+        "order": false,
+        "difficulty": 1
+    },
+    {
+        "name": "Countries which Flag has a Bird",
+        "countries": [
+            "AL",
+            "EG",
+            "KZ",
+            "MX",
+            "MD",
+            "ME",
+            "RS",
+            "KI",
+            "UG"
+        ],
+        "order": false,
+        "difficulty": 2
+    },
+    {
+        "name": "Countries which Flag has Borders",
+        "countries": [
+            "GD",
+            "MV",
+            "ME",
+            "NP",
+            "LK"
+        ],
+        "order": false,
+        "difficulty": 4
+    },
+    {
+        "name": "Countries which Multiple Capital Cities",
+        "countries": [
+            "BJ",
+            "BO",
+            "CL",
+            "EE",
+            "SZ",
+            "DE",
+            "MY",
+            "ZA",
+            "LK",
+            "CH"
+        ],
+        "order": false,
+        "difficulty": 5
+    },
+    {
+        "name": "Absolute Monarchies",
+        "countries": [
+            "VA",
+            "OM",
+            "SA",
+            "SZ",
+            "BN"
+        ],
+        "order": false,
+        "difficulty": 3
+    },
+    {
+        "name": "Executive Contitutional Monarchies",
+        "countries": [
+            "BH",
+            "BT",
+            "JO",
+            "KW",
+            "LI",
+            "MC",
+            "MA",
+            "QA",
+            "TO",
+            "AE"
+        ],
+        "order": false,
+        "difficulty": 4
+    },
+    {
+        "name": "Ceremonial Monarchies",
+        "countries": [
+            "AD",
+            "BE",
+            "KH",
+            "DK",
+            "JP",
+            "LS",
+            "LU",
+            "MY",
+            "NL",
+            "NO",
+            "ES",
+            "SE",
+            "TH",
+            "GB"
+        ],
+        "order": false,
+        "difficulty": 4
+    },
+    {
+        "name": "Elective Monarchies",
+        "countries": [
+            "VA",
+            "AD",
+            "MY",
+            "WS"
+        ],
+        "order": false,
+        "difficulty": 5
+    },
+    {
+        "name": "Current Dictatorships",
+        "countries": [
+            "AF",
+            "AO",
+            "AZ",
+            "BH",
+            "BY",
+            "TD",
+            "CU",
+            "CD",
+            "GQ",
+            "ER",
+            "IR",
+            "LA",
+            "MM",
+            "NI",
+            "KP",
+            "RU",
+            "TM",
+            "UG",
+            "VE",
+            "YE"
+        ],
+        "order": false,
+        "difficulty": 3
+    },
+    {
+        "name": "Dollarized Countries",
+        "countries": [
+            "MH",
+            "FM",
+            "PW",
+            "EC",
+            "SV",
+            "LR",
+            "PA",
+            "TL",
+            "VE"
+        ],
+        "order": false,
+        "difficulty": 4
+    },
+    {
+        "name": "Communist Party Ruling",
+        "countries": [
+            "CN",
+            "CU",
+            "LA",
+            "KP",
+            "VN"
+        ],
+        "order": false,
+        "difficulty": 2
+    },
+    {
+        "name": "Countries with Nuclear Weapons",
+        "countries": [
+            "RU",
+            "US",
+            "CN",
+            "FR",
+            "GB",
+            "IN",
+            "PK",
+            "IL",
+            "KP"
+        ],
+        "order": false,
+        "difficulty": 4
+    },
+    {
+        "name": "Countries with Territorial Claims in Antarctica",
+        "countries": [
+            "AR",
+            "AU",
+            "CL",
+            "FR",
+            "NZ",
+            "NO",
+            "GB"
+        ],
+        "order": false,
+        "difficulty": 0
+    },
+    {
+        "name": "Permanent Members of the ONU Security Council",
+        "countries": [
+            "US",
+            "FR",
+            "CN",
+            "RU",
+            "GB"
+        ],
+        "order": false,
+        "difficulty": 0
+    },
+    {
+        "name": "Commonwealth Members",
+        "countries": [
+            "GB",
+            "CA",
+            "AU",
+            "PG",
+            "NZ",
+            "JM",
+            "SB",
+            "BS",
+            "BZ",
+            "LC",
+            "GD",
+            "VC",
+            "KN",
+            "AG",
+            "TV"
+        ],
+        "order": false,
+        "difficulty": 0
+    },
+    {
+        "name": "EU Members",
+        "countries": [
+            "SE",
+            "DK",
+            "FI",
+            "PL",
+            "CZ",
+            "HU",
+            "SK",
+            "RO",
+            "BG",
+            "GR",
+            "EE",
+            "LV",
+            "LT",
+            "BE",
+            "NL",
+            "LU",
+            "IT",
+            "AT",
+            "HR",
+            "FR",
+            "DE",
+            "SI",
+            "ES",
+            "PT",
+            "MT",
+            "CY",
+            "IE"
+        ],
+        "order": false,
+        "difficulty": 1
+    },
+    {
+        "name": "Shengen Area",
+        "countries": [
+            "CH",
+            "IS",
+            "NO",
+            "LI",
+            "SE",
+            "DK",
+            "FI",
+            "PL",
+            "CZ",
+            "HU",
+            "SK",
+            "RO",
+            "BG",
+            "GR",
+            "EE",
+            "LV",
+            "LT",
+            "BE",
+            "NL",
+            "LU",
+            "IT",
+            "AT",
+            "HR",
+            "FR",
+            "DE",
+            "SI",
+            "ES",
+            "PT",
+            "MT"
+        ],
+        "order": false,
+        "difficulty": 2
+    },
+    {
+        "name": "Euro Zone",
+        "countries": [
+            "FI",
+            "SK",
+            "BG",
+            "GR",
+            "EE",
+            "LV",
+            "LT",
+            "BE",
+            "NL",
+            "LU",
+            "IT",
+            "AT",
+            "HR",
+            "FR",
+            "DE",
+            "SI",
+            "ES",
+            "PT",
+            "MT",
+            "CY",
+            "IE"
+        ],
+        "order": false,
+        "difficulty": 1
+    },
+    {
+        "name": "BRICS Founders",
+        "countries": [
+            "BR",
+            "RU",
+            "IN",
+            "CN",
+            "ZA"
+        ],
+        "order": false,
+        "difficulty": 2
+    },
+    {
+        "name": "BRICS Members",
+        "countries": [
+            "BR",
+            "RU",
+            "IN",
+            "CN",
+            "ZA",
+            "EG",
+            "ET",
+            "ID",
+            "IR",
+            "AE"
+        ],
+        "order": false,
+        "difficulty": 3
+    },
+    {
+        "name": "Nato Founders",
+        "countries": [
+            "BE",
+            "CA",
+            "DK",
+            "US",
+            "FR",
+            "IS",
+            "IT",
+            "LU",
+            "NO",
+            "NL",
+            "PT",
+            "GB"
+        ],
+        "order": false,
+        "difficulty": 2
+    },
+    {
+        "name": "G7 Members",
+        "countries": [
+            "CA",
+            "FR",
+            "DE",
+            "IT",
+            "JP",
+            "GB",
+            "US"
+        ],
+        "order": false,
+        "difficulty": 2
+    },
+    {
+        "name": "Countries Using the Cyrillic Writing System",
+        "countries": [
+            "RU",
+            "BY",
+            "UA",
+            "BG",
+            "RS",
+            "XK",
+            "ME",
+            "MK",
+            "BA",
+            "KZ",
+            "MN",
+            "KG",
+            "UZ",
+            "TJ"
+        ],
+        "order": false,
+        "difficulty": 3
+    },
+    {
+        "name": "Countries with Buddhism as Main Religion",
+        "countries": [
+            "MN",
+            "KH",
+            "TH",
+            "MM",
+            "LA",
+            "SG",
+            "BT",
+            "LK"
+        ],
+        "order": false,
+        "difficulty": 2
+    },
+    {
+        "name": "Top Countries with the Most Oil Reserves",
+        "countries": [
+            "VE",
+            "SA",
+            "IR",
+            "IQ",
+            "CA",
+            "AE",
+            "KW",
+            "RU",
+            "US",
+            "LY"
+        ],
+        "order": true,
+        "difficulty": 2
+    },
+    {
+        "name": "Top Countries with the Largest Coastline",
+        "countries": [
+            "CA",
+            "US",
+            "ID",
+            "RU",
+            "NO",
+            "AU",
+            "GL",
+            "CL",
+            "PH",
+            "JP"
+        ],
+        "order": true,
+        "difficulty": 4
+    },
+    {
+        "name": "Landlocked Countries",
+        "countries": [
+            "AF",
+            "AD",
+            "AM",
+            "AT",
+            "AZ",
+            "BY",
+            "BT",
+            "BO",
+            "BW",
+            "BF",
+            "BI",
+            "CF",
+            "TD",
+            "CZ",
+            "SZ",
+            "ET",
+            "HU",
+            "KZ",
+            "XK",
+            "KZ",
+            "XK",
+            "KG",
+            "LA",
+            "LS",
+            "LI",
+            "LU",
+            "MW",
+            "ML",
+            "MD",
+            "MN",
+            "NP",
+            "NE",
+            "MK",
+            "PY",
+            "RW",
+            "SM",
+            "RS",
+            "SK",
+            "SS",
+            "CH",
+            "TJ",
+            "TM",
+            "UG",
+            "UZ",
+            "VA",
+            "ZM",
+            "ZW"
+        ],
+        "order": false,
+        "difficulty": 2
+    },
+    {
+        "name": "Countries Intersected by the Equator",
+        "countries": [
+            "EC",
+            "CO",
+            "BR",
+            "ST",
+            "GA",
+            "CG",
+            "CD",
+            "UG",
+            "KE",
+            "SO",
+            "ID",
+            "KI"
+        ],
+        "order": false,
+        "difficulty": 3
+    },
+    {
+        "name": "Transcontinental Countries",
+        "countries": [
+            "EG",
+            "RU",
+            "TR",
+            "CL",
+            "ES",
+            "DK",
+            "US",
+            "FR",
+            "GB"
+        ],
+        "order": false,
+        "difficulty": 3
+    },
+    {
+        "name": "The Stan Club",
+        "countries": [
+            "AF",
+            "KG",
+            "KZ",
+            "PK",
+            "TJ",
+            "TM",
+            "UZ"
+        ],
+        "order": false,
+        "difficulty": 1
+    },
+    {
+        "name": "The LaLaLAND Club",
+        "countries": [
+            "CH",
+            "FI",
+            "GL",
+            "IE",
+            "IS",
+            "NL",
+            "NZ",
+            "PL",
+            "TH"
+        ],
+        "order": false,
+        "difficulty": 2
+    },
+    {
+        "name": "The Guinea Club",
+        "countries": [
+            "GN",
+            "GQ",
+            "GW",
+            "PG"
+        ],
+        "order": false,
+        "difficulty": 1
+    },
+    {
+        "name": "Former USSR",
+        "countries": [
+            "EE",
+            "LV",
+            "LT",
+            "BY",
+            "UA",
+            "MD",
+            "RU",
+            "GE",
+            "AZ",
+            "AM",
+            "KZ",
+            "UZ",
+            "TM",
+            "KG",
+            "TJ"
+        ],
+        "order": false,
+        "difficulty": 2
+    },
+    {
+        "name": "Former Yugoslavia",
+        "countries": [
+            "BA",
+            "HR",
+            "SI",
+            "MK",
+            "ME",
+            "RS",
+            "XK"
+        ],
+        "order": false,
+        "difficulty": 0
+    },
+    {
+        "name": "Top Countries with the Most Olympic Medals",
+        "countries": [
+            "US",
+            "RU",
+            "DE",
+            "CN",
+            "GB",
+            "FR",
+            "IT",
+            "SE",
+            "NO",
+            "JP"
+        ],
+        "order": true,
+        "difficulty": 3
+    },
+    {
+        "name": "Countries with a F1 GP",
+        "countries": [
+            "AU",
+            "BH",
+            "BR",
+            "CN",
+            "JP",
+            "SG",
+            "SA",
+            "QA",
+            "AZ",
+            "US",
+            "CA",
+            "MX",
+            "ES",
+            "GB",
+            "NL",
+            "BE",
+            "AT",
+            "IT",
+            "HU",
+            "MC",
+            "AE"
+        ],
+        "order": false,
+        "difficulty": 3
+    },
+    {
+        "name": "FIFA World Cup Champions",
+        "countries": [
+            "UY",
+            "IT",
+            "DE",
+            "BR",
+            "GB",
+            "AR",
+            "FR"
+        ],
+        "order": false,
+        "difficulty": 3
+    }
+]
